@@ -1,3 +1,6 @@
+![Zinzuvadiya Raj](https://user-images.githubusercontent.com/124353526/230967605-d8767226-c8eb-4391-8fed-ed8b83fb777b.png)
+
+
 <h1 align="center">Hi 👋, I'm Zinzuvadiya Raj</h1>
 <h3 align="center">Web developer And Web Designer</h3>
 
