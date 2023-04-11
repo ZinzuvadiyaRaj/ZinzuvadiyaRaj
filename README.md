@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Zinzuvadiya Raj</h1>
 <h3 align="center">Web developer And Web Designer</h3>
 
-<p align="left"> <a href="https://twitter.com/zinzuvadiyaraj" target="blank"><img src="https://img.shields.io/twitter/follow/zinzuvadiyaraj?logo=twitter&style=for-the-badge" alt="zinzuvadiyaraj" /></a> </p>
 
 - 💬 Ask me about **PHP, Codeigniter and laravel**
 
