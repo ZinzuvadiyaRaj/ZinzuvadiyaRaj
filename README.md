@@ -2,8 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Zinzuvadiya Raj</h1>
-<h3 align="center">Web developer And Web Designer</h3>
-
+<h3 align="center">Web developer & Designer</h3>
 
 - 💬 Ask me about **PHP, Codeigniter and laravel**
 
